@@ -1,0 +1,2 @@
+# shorty
+Gradle convention demo
