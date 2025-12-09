@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Shorty"
 include(":app")
- 
+include(":feature")
